@@ -1,0 +1,35 @@
+* {
+   margin:0;
+   padding:0;
+   font-family:  'poppins',sans-series;
+   box-sizing:border-box; 
+}
+
+
+
+.container{
+    width:100%;
+    height:100vh;
+    background: #e3f9ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+Calculator{
+    background: #5f656d;
+    padding: 20px;
+    display: flex;
+    border-radius: 10px;
+}
+
+calculator form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    box-shadow: 8px
+}
+
+    
